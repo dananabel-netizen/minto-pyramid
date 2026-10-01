@@ -1,9 +1,9 @@
 ---
 name: minto-pyramid
-description: "Structure any business communication — emails, Slack messages, reports, presentations, and slide decks — using the Minto Pyramid Principle. Lead with the conclusion (BLUF), then key arguments, then supporting details. Use this skill whenever the user wants to write or restructure a message, email, report, presentation, or slide deck so it communicates more efficiently. Also activate when the user mentions 'Minto Pyramid', 'BLUF', 'bottom line up front', 'pyramid principle', 'conclusion first', or wants to make their communication clearer, more concise, or more top-down. Works for both written communication and presentation/slide structure."
+description: "Structure any business communication (emails, Slack, reports, presentations, slides) using the Minto Pyramid Principle: conclusion first, then key arguments, then supporting details. TRIGGER when the user says any of: 'aplica la pirámide', 'aplica la pirámide de minto', 'estructura esto con minto', 'poné la conclusión primero', 'arrancá con el bottom line', 'dale forma de pirámide', 'aplica BLUF', 'usa minto', 'pirámide de minto', 'estructura minto', 'conclusión primero', 'apply the minto pyramid', 'apply the pyramid principle', 'use BLUF', 'bottom line up front', 'lead with the conclusion'. Also trigger when the user wants to make a message, email, report, or presentation clearer, more concise, or better structured — even without naming Minto: 'hacé este email más claro', 'estructurá este reporte', 'organizá esta presentación', 'poné lo importante primero', 'make this clearer', 'structure this better', 'put the key point first'. Works for written communication and slide decks."
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.1.0
   propagation_policy: replace_unmanaged
   tags:
     - audience:all
